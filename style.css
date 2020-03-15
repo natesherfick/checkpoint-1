@@ -1,0 +1,37 @@
+
+
+.pacifico-font{
+  font-family: 'Pacifico', cursive;
+}
+
+.poppins-font{
+  font-family: 'Poppins', sans-serif;
+}
+
+.btn-primaryish{
+    color: #eeeeee;
+    background-color: #c8845a;
+    border-color: #c8845a;
+}
+
+.bg-header{
+background-image: url('https://images.pexels.com/photos/509922/pexels-photo-509922.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260');
+background-position: center;
+background-size: cover;
+}
+
+.bgish-mint{
+background-color: #a49c86;
+}
+
+.circleish{
+  border-radius: 50%;
+}
+
+.centerish{
+  justify-content: space-around;
+}
+
+.btnish{
+text-align: center;
+}
