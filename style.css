@@ -24,6 +24,10 @@ background-size: cover;
 background-color: #a49c86;
 }
 
+.bgish-mango{
+  background-color: #c8845a;
+}
+
 .circleish{
   object-fit: cover;
   border-radius: 50%;
@@ -31,6 +35,10 @@ background-color: #a49c86;
 
 .centerish{
   justify-content: space-around;
+}
+
+.middleish{
+  align-content: center;
 }
 
 .btnish{
@@ -49,7 +57,7 @@ margin-left: -75px;
 }
 
 .breakish{
-  border: 7px solid white;
+  border: 3px solid #c8845a;
 }
 
 .cardish-color{
@@ -59,4 +67,23 @@ margin-left: -75px;
 .btnish-color{
   background-color: #c8845a;
   border-color: #c8845a;
+}
+
+.uniqueish{
+  object-fit: cover;
+  width: 100%;
+  max-height: 40vh;
+}
+
+.headlineish{
+  min-height: 4rem;
+}
+
+.min-height-ish{
+  min-height: 80%;
+}
+
+.justdoish{
+  max-height: 300px;
+  max-width: 300px;
 }
