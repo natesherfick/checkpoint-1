@@ -25,6 +25,7 @@ background-color: #a49c86;
 }
 
 .circleish{
+  object-fit: cover;
   border-radius: 50%;
 }
 
@@ -33,5 +34,29 @@ background-color: #a49c86;
 }
 
 .btnish{
-text-align: center;
+width: 150px;
+left: 50%;
+margin-left: -75px;
+}
+
+.bgish-light{
+  background-color: #eeeeee;
+  height: 120px;
+}
+
+.underflowish{
+  margin-bottom: -3rem;
+}
+
+.breakish{
+  border: 7px solid white;
+}
+
+.cardish-color{
+  background-color: #eeeeee;
+}
+
+.btnish-color{
+  background-color: #c8845a;
+  border-color: #c8845a;
 }
