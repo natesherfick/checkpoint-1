@@ -28,6 +28,10 @@ background-color: #a49c86;
   background-color: #c8845a;
 }
 
+.bgish-black{
+  background-color: black;
+}
+
 .circleish{
   object-fit: cover;
   border-radius: 50%;
